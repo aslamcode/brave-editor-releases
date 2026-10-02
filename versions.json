@@ -1,0 +1,14 @@
+{
+  "latest": "v0.107.0",
+  "stable": "v0.107.0",
+  "lts": "v0.107.0",
+  "versions": [
+    {
+      "version": "v0.107.0",
+      "date": "2026/01/11",
+      "files": ["win-x64", "linux-x64", "osx-arm64"],
+      "flavors": ["normal", "sdk"],
+      "components": { "node": "25.2.1", "chromium": "144.0.7559.59" }
+    }
+  ]
+}
